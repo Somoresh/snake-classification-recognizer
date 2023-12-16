@@ -37,6 +37,7 @@ Data Cleaning: Cleaning snake image data typically involves pre-processing and r
  I utilized the Gradio App to deploy the model. I can not deployment in Huggingface Yet.
  The implementation can be found in Future.
  HuggingFace Spaces [Here](https://huggingface.co/spaces/Somoresh/snake-classification)
+ 
  ![Screenshot_2](https://github.com/Somoresh/snake-classification-recognizer/assets/45269154/ca95537a-c876-47ef-83a4-cb6153564d07)
 
  # API embedding with GitHub Pages
