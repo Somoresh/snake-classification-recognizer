@@ -39,6 +39,7 @@ Data Cleaning: Cleaning snake image data typically involves pre-processing and r
  HuggingFace Spaces [Here](https://huggingface.co/spaces/Somoresh/snake-classification)
  ![Screenshot_2](https://github.com/Somoresh/snake-classification-recognizer/assets/45269154/ca95537a-c876-47ef-83a4-cb6153564d07)
 
- #API embedding with GitHub Pages
+ # API embedding with GitHub Pages
+ 
  I am sorry to say that i could not deploy Gradio App model in HuggingFace
  as a result i failed to API embading with Github Pages.But basic Page is [Here](https://somoresh.github.io/snake-classification-recognizer/)
