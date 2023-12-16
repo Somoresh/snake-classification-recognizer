@@ -17,3 +17,5 @@ The types are following:
 11. Rat Snake
 12. Parot Snake
 13. Lora
+
+# Data Preperation
