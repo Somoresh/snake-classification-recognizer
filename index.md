@@ -3,7 +3,7 @@ title: Home
 layout: Page
 ---
 
-# Snake Classification
+# Welcome to Snake Classification & Recognizer
 Can classify 13 different types od snakes <br/>
 The types are following: <br/>
 1. Python
