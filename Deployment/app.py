@@ -1,6 +1,10 @@
 from fastai.vision.all import load_learner
 import gradio as gr
 
+# import pathlib
+# temp = pathlib.PosixPath
+# pathlib.PosixPath = pathlib.WindowsPath
+
 snake_labels = {
     "Python",
     "Rattle",
