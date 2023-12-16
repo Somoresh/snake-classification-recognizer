@@ -32,3 +32,8 @@ Training: Fine-tuned a resnet34 model for 5 epochs (5 times) respectively and go
 
 Data Cleaning: Cleaning snake image data typically involves pre-processing and refining the dataset to ensure that it is suitable for use in machine learning or computer vision applications. 
  Using fastai ImageClassifierCleaner, I updated and cleaned the data. Gather a diverse set of snake images from various sources, ensuring representation of different species, angles, lighting conditions, and backgrounds.
+
+ # Model Deployment
+ I utilized the Gradio App to deploy the model. I can not deployment iN Huggingface Yet.
+ The implementation can be found in Future .
+ HuggingFace Spaces [Here](https://huggingface.co/spaces/Somoresh/snake-classification)
