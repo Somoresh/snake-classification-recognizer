@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyil-remote-theme
+
+title: Snake Classifier
+description: An Image classification API that classifies 13 different types of snakes around the world.
+
+author:
+  name: Somoresh
