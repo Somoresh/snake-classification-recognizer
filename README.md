@@ -24,3 +24,6 @@ Data collection: downloaded images with each category name using the search_imag
 
 Data Augmentation: fastai provides default data augmentation which operates in GPU. Details can be found in
 'Notebook/Snake_Data_Preperation'
+
+# Data Training & Cleaning
+![Screenshot_5](https://github.com/Somoresh/snake-classification-recognizer/assets/45269154/18979211-a75d-4153-adcf-bb410f56752e)
