@@ -20,7 +20,7 @@ The types are following:
 
 # Data Preperation
 
-Data collection : downloaded images with each category name using the search_image_ddg() function from the DuckDuckGo search engine.
+Data collection: downloaded images with each category name using the search_image_ddg() function from the DuckDuckGo search engine.
 
 Data Augmentation: fastai provides default data augmentation which operates in GPU. Details can be found in
-'Notebook/Snake_Data-Preperation'
+'Notebook/Snake_Data_Preperation'
