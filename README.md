@@ -26,6 +26,6 @@ Data Augmentation: fastai provides default data augmentation which operates in G
 'Notebook/Snake_Data_Preperation'
 
 # Data Training & Cleaning
-Training: Fine-tuned a resnet34 model for 3 epochs (5 times) respectively and got upto ~80% accuracy.
+Training: Fine-tuned a resnet34 model for 5 epochs (5 times) respectively and got upto ~80% accuracy.
 
 ![Screenshot_5](https://github.com/Somoresh/snake-classification-recognizer/assets/45269154/18979211-a75d-4153-adcf-bb410f56752e)
