@@ -4,7 +4,7 @@ layout: Page
 ---
 
 # Welcome to Snake Classification & Recognizer
-Can classify 13 different types od snakes <br/>
+Can classify 13 different types of Snakes around the world<br/>
 The types are following: <br/>
 1. Python
 2. Rattle
